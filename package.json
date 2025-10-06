@@ -44,7 +44,6 @@
     "@openedx/frontend-plugin-framework": "^1.2.1",
     "@optimizely/react-sdk": "^2.9.1",
     "@redux-devtools/extension": "3.3.0",
-    "@testing-library/react": "^12.1.5",
     "algoliasearch": "^4.14.3",
     "algoliasearch-helper": "^3.14.0",
     "classnames": "2.5.1",
